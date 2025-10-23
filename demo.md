@@ -33,7 +33,7 @@ Install Libraries:
 Tools → Manage Libraries → Search for "Blynk"
 
 Complete Demo Code:
-cpp
+..    ..
 #include <BlynkSimpleEsp32.h>
 
 // Your Blynk Auth Token (get from app)
@@ -137,6 +137,9 @@ void startTimer() {
   Serial.println("🅿️ Parking timer STARTED for 5 minutes!");
   Blynk.logEvent("parking_start", "Parking timer started for 5 minutes");
 }
+
+
+... .....
 📱 Step 3: Mobile App Setup (10 minutes)
 Blynk App Configuration:
 Download Blynk App (iOS/Android)
