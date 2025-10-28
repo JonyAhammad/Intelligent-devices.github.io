@@ -81,4 +81,4 @@ Firebase Realtime Database
 
 ESP32 DevKit Boar
 
-![IoT Project Diagram](images/A_detailed_digital_schematic_diagram_illustrates_a.png)
+[IoT Project Diagram](images/A_detailed_digital_schematic_diagram_illustrates_a.png)
