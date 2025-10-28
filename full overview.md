@@ -92,3 +92,26 @@ ESP32 and ESP8266 are popular because they combine microcontroller + Wi-Fi, but 
 A regular microcontroller (like Arduino Uno)
 
 A separate Wi-Fi module (to send data to the cloud or mobile app)
+
+
+# Option 1: Arduino UNO + ESP01 Wi-Fi Module
+
+How it works:
+
+Arduino Uno collects sensor data (motion, light, temperature).
+
+ESP01 module connects to Wi-Fi and sends that data to the IoT platform (like Blynk or ThingSpeak).
+
+You’ll need:
+
+Arduino Uno (main controller)
+
+ESP01 or ESP8266 Wi-Fi Module
+
+Sensors: PIR, LDR, DHT11
+
+Relay module
+
+Breadboard + jumper wires
+
+Power supply
