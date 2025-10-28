@@ -69,3 +69,16 @@ GND
 PIR Sensor: OUT -> GPIO 13, VCC -> 5V, GND -> GND
 Relay IN -> GPIO 26, VCC -> 5V, GND -> GND
 
+# Tools & Libraries Used
+
+Arduino IDE
+
+FirebaseESP32 Library (by Mobizt)
+
+WiFi.h (built-in ESP32 library)
+
+Firebase Realtime Database
+
+ESP32 DevKit Boar
+
+![IoT Project Diagram](images/A_detailed_digital_schematic_diagram_illustrates_a.png)
