@@ -85,4 +85,10 @@ ESP32 DevKit Boar
 <img width="1536" height="1024" alt="ChatGPT Image Oct 29, 2025, 12_50_56 AM" src="https://github.com/user-attachments/assets/644556e9-bcc0-42a1-862c-0a7fcafbfec7" />
 
 
+# If You Don’t Use ESP32 / ESP8266
 
+ESP32 and ESP8266 are popular because they combine microcontroller + Wi-Fi, but if you remove them, you’ll need two things instead:
+
+A regular microcontroller (like Arduino Uno)
+
+A separate Wi-Fi module (to send data to the cloud or mobile app)
