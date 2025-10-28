@@ -83,3 +83,6 @@ ESP32 DevKit Boar
 
 [IoT Project Diagram](images/A_detailed_digital_schematic_diagram_illustrates_a.png)
 <img width="1536" height="1024" alt="ChatGPT Image Oct 29, 2025, 12_50_56 AM" src="https://github.com/user-attachments/assets/644556e9-bcc0-42a1-862c-0a7fcafbfec7" />
+
+
+
