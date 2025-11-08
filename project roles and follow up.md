@@ -66,7 +66,8 @@ Integrate all modules (hardware + software) into one working system
 Prepare final report, presentation, and demo video
 (This person ensures all parts connect and communicate properly.)
 ---
-##2. Hardware Engineer: Jony ahammad
+
+## 2. Hardware Engineer: Jony ahammad
 
 Main focus: Circuit design and assembly
 Responsibilities:
