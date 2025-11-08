@@ -56,7 +56,7 @@ Testing and optimization will ensure energy savings and reliability in real clas
 ### 3. Other Roles in the Project
 - Assistant Developer / Debugger -  MOON
 - System Tester- Jony Ahammad  
-- Report & Presentation Designer -MD hossen 
+- Report & Presentation Designer -MD hosen 
 
 ---
 
