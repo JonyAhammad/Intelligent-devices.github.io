@@ -114,4 +114,6 @@ Relay module
 
 Breadboard + jumper wires
 
-Power supply
+Power supply<img width="1536" height="1024" alt="ChatGPT Image Nov 8, 2025, 08_29_02 PM" src="https://github.com/user-attachments/assets/3e4d0fe8-29b4-4513-b7ca-d69919804ae9" />
+
+
