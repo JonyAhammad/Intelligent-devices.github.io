@@ -1,7 +1,7 @@
-# 🌟 Smart Classroom Energy Management System (IoT + Firebase + ESP32)
+# 🌟 Smart room Energy Management System (IoT + Firebase + ESP32)
 
 ## 📘 Project Overview
-The **Smart Classroom Energy Management System** automatically controls classroom lights and fans based on **motion detection** and **ambient light levels**.  
+The **Smart room Energy Management System** automatically controls classroom lights and fans based on **motion detection** and **ambient light levels**.  
 It helps reduce energy waste by turning off devices when no one is in the room and updates the **real-time status** to **Firebase Cloud** for monitoring.
 
 ---
