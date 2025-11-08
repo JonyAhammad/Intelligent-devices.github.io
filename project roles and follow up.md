@@ -51,7 +51,7 @@ Testing and optimization will ensure energy savings and reliability in real clas
 | **Documenter** | Prepares README, reports, and final presentation |
 
 ### 2. Who Is the Project Manager?
-**MD Hossen**
+**MD Hosen**
 
 ### 3. Other Roles in the Project
 - Assistant Developer / Debugger -  MOON
