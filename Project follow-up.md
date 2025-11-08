@@ -1,9 +1,9 @@
-# Smart Classroom Energy Management System
+# Smart room Energy Management System
 
 ## 🧠 Project Description in Brief
 
 ### 1. Name of the Project
-**Smart Classroom Energy Management System**
+**Smart room Energy Management System**
 
 ### 2. Goal of the Project
 The goal of this project is to design and implement an **IoT-based energy management system** that automatically monitors and controls classroom electrical devices such as lights, fans, and air conditioners.  
