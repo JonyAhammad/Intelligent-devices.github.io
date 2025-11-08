@@ -50,15 +50,49 @@ Testing and optimization will ensure energy savings and reliability in real clas
 | **Tester** | Tests device performance, data accuracy, and automation |
 | **Documenter** | Prepares README, reports, and final presentation |
 
-### 2. Who Is the Project Manager?
-**MD Hosen**
 
-### 3. Other Roles in the Project
-- Assistant Developer / Debugger -  MOON
-- System Tester- Jony Ahammad  
-- Report & Presentation Designer -MD hosen 
+  ---
+### 1. Project Manager / System Integrator:**MD hosen
+
+Main focus: Planning, coordination, and final integration
+Responsibilities:
+
+Define overall project scope and timeline
+
+Assign tasks, track progress, ensure documentation and deadlines
+
+Integrate all modules (hardware + software) into one working system
+
+Prepare final report, presentation, and demo video
+(This person ensures all parts connect and communicate properly.)
+---
+###2. Hardware Engineer: **Jony ahammad
+
+Main focus: Circuit design and assembly
+Responsibilities:
+
+Connect Arduino, ESP01, sensors (PIR, LDR, DHT11), and relay
+
+Handle wiring on breadboard or PCB
+
+Test power supply and sensor outputs with multimeter / serial monitor
+
+Create circuit diagram (Tinkercad or Fritzing)
+(This person ensures the physical setup is stable and accurate.)
 
 ---
+###3. Software & IoT Developer: **Tahbir Moon
+
+Main focus: Coding, IoT platform setup, and data communication
+Responsibilities:
+
+Write Arduino code for reading sensors and controlling relay
+
+Configure ESP01 Wi-Fi communication (AT commands or code)
+
+Set up IoT platform (ThingSpeak / Blynk) for data upload and dashboard
+
+Debug serial communication between Arduino and ESP01
 
 ## ⚠️ Risks and Uncertainties
 
