@@ -52,7 +52,7 @@ Testing and optimization will ensure energy savings and reliability in real clas
 
 
   ---
-### 1. Project Manager / System Integrator:**MD hosen
+### 1. Project Manager / System Integrator: #MD hosen
 
 Main focus: Planning, coordination, and final integration
 Responsibilities:
@@ -66,7 +66,7 @@ Integrate all modules (hardware + software) into one working system
 Prepare final report, presentation, and demo video
 (This person ensures all parts connect and communicate properly.)
 ---
-###2. Hardware Engineer: **Jony ahammad
+###2. Hardware Engineer: #Jony ahammad
 
 Main focus: Circuit design and assembly
 Responsibilities:
@@ -81,7 +81,7 @@ Create circuit diagram (Tinkercad or Fritzing)
 (This person ensures the physical setup is stable and accurate.)
 
 ---
-###3. Software & IoT Developer: **Tahbir Moon
+###3. Software & IoT Developer: #Tahbir Moon
 
 Main focus: Coding, IoT platform setup, and data communication
 Responsibilities:
